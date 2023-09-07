@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "E:\\web3.0 projects\\hardhat-by-code-eater\\contracts\\Token.sol": {
-      "lastModificationDate": 1694063351532,
-      "contentHash": "f54cc10d1e8fb912995b165a973c1f99",
+      "lastModificationDate": 1694068288433,
+      "contentHash": "ba4e26b4ee23f4c4ee7f358c81e4a019",
       "sourceName": "contracts/Token.sol",
       "solcConfig": {
         "version": "0.8.19",
