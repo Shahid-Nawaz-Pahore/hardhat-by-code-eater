@@ -7,3 +7,6 @@
  npx hardhat
 #To install chai and others 
  npm install --save-dev @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-waffle ethereum-waffle chai
+#to compile smart contract
+ npm hardhat compile
+
